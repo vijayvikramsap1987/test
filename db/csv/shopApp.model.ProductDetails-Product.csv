@@ -1,0 +1,4 @@
+ID;PARENT_KEY;name;imageUrl;quantityLeft;availability;pricePerUnit;CURRENCY_CODE_code;discountPercent;quantityUnit;description;Category
+90309f94-ae29-11eb-8529-0242ac130003;cfe0b8f2-accd-11eb-8529-0242ac130003;Tea;;20.00;true;150.00;INR;10.00;KG;Tea Product from Assam;Grocery
+90309ecc-ae29-11eb-8529-0242ac130003;cfe0b8f2-accd-11eb-8529-0242ac130003;Soap;;30.76;true;45.00;INR;20.00;PC;Patanjali Soap;Grocery
+90309e18-ae29-11eb-8529-0242ac130003;cfe0b99c-accd-11eb-8529-0242ac130003;Biscuits;;0.00;false;170.00;INR;0.00;PC;Tata Biscuit;Grocery
